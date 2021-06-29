@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Shaziya Javed
+I am a college student
 <!--
 **theshaziyajaved/theshaziyajaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
